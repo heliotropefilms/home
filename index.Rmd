@@ -20,16 +20,15 @@ We are Heliotrope Films: Ecological Media Specialists.
 
 Please get in touch at: heliotropefilms@icloud.com
 
-Thank you
+You can also follow us on twitter at: https://twitter.com/heliotrope_films
 
-~ + ~ + ~ + ~
+Thank you.
+
+~ ~ ~
 
 `r timenow <- format(Sys.time(), "%d %B %Y")`
 
-~
-
 <footer>
-
 
 </font>
 <font-size:25% color:purple>
