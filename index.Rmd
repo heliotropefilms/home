@@ -1,0 +1,39 @@
+---
+title: ""
+output:
+  html_document:
+    theme: null
+    highlight: null
+    css: styles.css
+---
+<font face="Garamond">
+<h1><center>Heliotrope</h1></center>
+
+<body style="background-color:#8F5E99;text-align:center">
+
+<p><font-size:100%>
+
+
+Welcome!
+
+We are Heliotrope Films: Ecological Media Specialists.
+
+Please get in touch at: heliotropefilms@icloud.com
+
+Thank you
+
+~ + ~ + ~ + ~
+
+`r timenow <- format(Sys.time(), "%d %B %Y")`
+
+~
+
+<footer>
+
+
+</font>
+<font-size:25% color:purple>
+Last updated: `r timenow`
+</footer>
+
+
