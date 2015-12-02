@@ -16,11 +16,9 @@ output:
 
 Welcome!
 
-We are Heliotrope Films: Ecological Media Specialists.
+We are Heliotrope Films: Ecological Media Specialists
 
 Please get in touch at: heliotropefilms@icloud.com
-
-You can also follow us on twitter at: https://twitter.com/heliotrope_films
 
 Thank you.
 
